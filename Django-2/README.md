@@ -1,6 +1,6 @@
 # Second Django Homework
 
-This repository contains my second Django homework.
+This repository contains second Django homework project.
 
 ## Features
 
