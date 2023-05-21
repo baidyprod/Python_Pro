@@ -1,6 +1,6 @@
 # Django Project
 
-This repository contains a Django project initialized with the latest version of Django.
+This repository contains a Django homework project initialized with the latest version of Django.
 
 ## Features:
 
